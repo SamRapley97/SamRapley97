@@ -6,9 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub!](GitHub!)
 
-- My youtube channel! 
-[https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg](https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
-
 - 💬 Ask me about **languages (human and computer!), circularity.**
 
 - 📫 How to reach me **samrapley@protonmail.com**

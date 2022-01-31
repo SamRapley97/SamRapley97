@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub!](GitHub!)
 
-- 💬 Ask me about **languages (human and computer!), circularity.**
+- 💬 Ask me about **languages (human and computer!)**
 
 - 📫 How to reach me **samrapley@protonmail.com**
 

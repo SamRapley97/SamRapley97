@@ -1,4 +1,3 @@
-# TestGitHub
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A junior front-end developer from the U.K</h3>
 

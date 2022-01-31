@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SamRapley97.SamRapley97)
 
 </p>
-<div size='20px'> Hi! My name is Sam Rapley. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Sam. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>

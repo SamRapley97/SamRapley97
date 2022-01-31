@@ -19,6 +19,8 @@
 
 - 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
 
+- 🌲 And spend a lot of time outdoors :)
+
 - 🌱 I’m currently learning Javascript, React, Bootstrap 
 
 - 👯 I’m looking to collaborate on any beginner-friendly projects liked to cyber-security would be ideal! 

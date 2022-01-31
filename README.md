@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on studying hard at the School of Code bootcamp to get ready for my first role as a junior-developer!
 
-- 🎥 I also do youtube videos in Russian (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
+- 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
 
 - 🌱 I’m currently learning Javascript, React, Bootstrap 
 

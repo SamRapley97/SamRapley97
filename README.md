@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning Javascript, React, Bootstrap 
 
-- 👯 I’m looking to collaborate on: Any beginner-friendly projects linked to cyber-security would be ideal! 
+- 👯 I’m looking to collaborate on any beginner-friendly projects linked to cyber-security!
 
 - 💬 Talk to me about Python, JavaScript, Cyber-security, Open Source, Career opportunities. 
 &nbsp;

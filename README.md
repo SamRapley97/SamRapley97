@@ -15,7 +15,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on studying hard at the School of Code bootcamp to get ready for my first role as a junior developer!
+- 🔭 I’m currently working on studying hard at the School of Code bootcamp to get ready for my first role as a junior full-stack developer!
 
 - 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
 

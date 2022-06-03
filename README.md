@@ -10,13 +10,13 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on studying hard at the School of Code bootcamp to get ready for my first role as a junior full-stack developer!
+- 🔭 Tech enthusiast looking for their first role in the industry!
 
 - 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
 
 - 🌲 And spend a lot of time outdoors :)
 
-- 🌱 I’m currently learning Javascript, React, Bootstrap 
+- 🌱 I’m currently learning Python and am studying for my CompTIA Security+ certification. 
 
 - 👯 I’m looking to collaborate on any beginner-friendly projects linked to cyber-security!
 

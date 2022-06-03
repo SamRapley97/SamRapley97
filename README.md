@@ -1,5 +1,5 @@
-# </p>
-<div size='20px'> Hi! My name is Sam. Thank You for taking the time to view my GitHub Profile :smile: 
+</p>
+# <div size='20px'> Hi! My name is Sam. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 &nbsp;
 &nbsp;

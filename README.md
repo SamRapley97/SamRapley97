@@ -22,7 +22,6 @@
 ## 🛠 Skills
 Javascript, HTML, CSS, Python. 
 
-&nbsp;
 
 ## 🔗 Contact me
 

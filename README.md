@@ -1,9 +1,8 @@
-</p>
+
 # Hi! My name is Sam. Thank You for taking the time to view my GitHub Profile :smile: 
 
-&nbsp;
-&nbsp;
-<h2> About Me </h2>
+
+## About Me 
 
 
 - 🔭 Tech enthusiast looking for their first role in the industry!
@@ -33,5 +32,5 @@
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/sam-rapley9743'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  <a href = 'https://www.github.com/SamRapley97'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-</footer>
+
 

@@ -1,8 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://image.freepik.com/free-photo/beautiful-scenery-forest-snowy-alps-winter_181624-29223.jpg" alt="cover" />
-</div>
-
-</p>
+# </p>
 <div size='20px'> Hi! My name is Sam. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 &nbsp;

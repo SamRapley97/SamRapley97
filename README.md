@@ -5,7 +5,7 @@
 
 ## About Me 
 
-- 🔭 Tech enthusiast looking for their first role in the industry!
+- 🔭 Tech enthusiast looking to progress into cyber-security
 
 - 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
 

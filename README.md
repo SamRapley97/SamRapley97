@@ -5,9 +5,9 @@
 
 ## About Me 
 
-- 🔭 Tech enthusiast looking to progress into cyber-security
+- 🔭 Tech/support/Junior Tester looking to progress into cyber-security
 
-- 🎥 I also do youtube videos in Russian 🇷🇺 (https://www.youtube.com/channel/UC_LDCgUrNiR8HUn09Gtebsg)
+- 🇷🇺 Russian language enthusiast
 
 - 🌲 And spend a lot of time outdoors :)
 

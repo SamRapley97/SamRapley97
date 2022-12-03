@@ -25,6 +25,6 @@ Javascript, HTML, CSS, Python.
 
 ## 🔗 Contact me
 
-[![linkedin]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](www.linkedin.com/in/srapley)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/srapley)
 
 

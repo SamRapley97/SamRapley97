@@ -23,9 +23,9 @@
 
  <strong>
 
-- Comptia Security+</strong><br>
-  <strong>- ISTQB foundation level
-</div>
+- Comptia Security+<br>
+- ISTQB foundation level
+
 </strong>
 &nbsp;
 

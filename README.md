@@ -22,8 +22,8 @@
 ## 🛠 Skills
 
 <div>
-  <strong>Comptia Security+</strong><br>
-  <strong>ISTQB foundation level</strong>
+  <strong>- Comptia Security+</strong><br>
+  <strong>- ISTQB foundation level</strong>
 </div>
 &nbsp;
 <div>

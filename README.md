@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
-Javascript, HTML, CSS, Python. 
 
 
 ## 🔗 Contact me

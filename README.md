@@ -22,7 +22,7 @@
 ## 🛠 Skills
 
 <div>
-  <img src="https://www.credly.com/badges/23a4553b-8fef-4e78-b697-2b9b7730f7b8/public_url">
+  <img src="[https://www.credly.com/badges/23a4553b-8fef-4e78-b697-2b9b7730f7b8/public_url](https://drive.google.com/file/d/1RKq5qfp1xa4kBayzo5hFaK1NRogvTfaO/view?usp=share_link)">
 </div>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">

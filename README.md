@@ -5,15 +5,15 @@
 
 ## About Me 
 
-- 🔭 Tech/support/Junior Tester looking to progress into cyber-security
+- 🔭 Tech/support/Junior Tester looking to progress into automated testing. 
 
 - 🇷🇺 Russian language enthusiast
 
 - 🌲 And spend a lot of time outdoors :)
 
-- 🌱 I’m currently learning Python and am studying for my CompTIA Security+ certification. 
+- 🌱 I’m currently learning Python as a new language and brushing up on my Javascript skills. I'm learning how to apply these languages using automated test frameworks, specifically Selenium and Cypress.
 
-- 👯 I’m looking to collaborate on any beginner-friendly projects linked to cyber-security!
+- 👯 I’m looking to collaborate on any beginner-friendly projects linked to automated testing or !
 
 - 💬 Talk to me about Python, JavaScript, Cyber-security, Open Source, Career opportunities. 
 &nbsp;
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </div>
+
+
 
 
 ## 🔗 Contact me

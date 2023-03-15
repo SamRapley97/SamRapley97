@@ -11,9 +11,9 @@
 
 - 🌲 And spend a lot of time outdoors :)
 
-- 🌱 I’m currently learning Python as a new language and brushing up on my Javascript skills. I'm learning how to apply these languages using automated test frameworks, specifically Selenium and Cypress.
+- 🌱 I’m currently learning Python as a new language and I am also brushing up on my Javascript skills. Specifically I am learning how to use these in the context of automated testing (Python with Selenium, Javascript with Cypress)
 
-- 👯 I’m looking to collaborate on any beginner-friendly projects linked to automated testing or !
+- 👯 I’m looking to collaborate on any beginner-friendly projects linked to automated testing or cyber security!
 
 - 💬 Talk to me about Python, JavaScript, Cyber-security, Open Source, Career opportunities. 
 &nbsp;

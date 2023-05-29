@@ -5,7 +5,7 @@
 
 ## About Me 
 
-- 🔭 Tech-support/Junior Tester looking to progress into automated testing or a junior devops role.  
+- 🔭 Systems tester looking to end up in dev-ops. 
 
 - 🇷🇺 Russian language enthusiast
 

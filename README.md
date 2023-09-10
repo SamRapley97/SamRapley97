@@ -5,7 +5,7 @@
 
 ## About Me 
 
-- 🔭 Systems tester looking to end up in dev-ops. 
+- 🔭 Systems tester looking to progress into dev-ops. 
 
 - 🇷🇺 Russian language enthusiast
 

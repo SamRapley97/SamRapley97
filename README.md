@@ -24,7 +24,8 @@
  <strong>
 
 - Comptia Security+<br>
-- ISTQB foundation level
+- ISTQB foundation level<br>
+- AZ-900
 
 </strong>
 &nbsp;
